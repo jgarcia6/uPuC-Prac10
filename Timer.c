@@ -35,3 +35,8 @@ ISR (TIMER0_OVF_vect)
         SecFlag=1; /* Bandera de Segundos */
     }
 }
+
+void Timer2_Gen_Tone(uint16_t tone, uint8_t volume)
+{
+    return;
+}

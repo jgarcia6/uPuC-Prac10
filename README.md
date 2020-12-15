@@ -1,2 +1,2 @@
-# uPuC-Prac9
-AVR-GCC. Timers
+# uPuC-Prac10
+AVR-GCC. PWM and ADC
